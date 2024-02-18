@@ -1,7 +1,6 @@
 # StudyNotion Online Education Platform (MERN App) 
 
-![Uploading Screenshot 2024-02-10 180252.png…]()
-
+![Screenshot 2024-02-10 180252](https://github.com/RajAditya01/StudyNotion-An-Online-Education-Platform/assets/101439988/92ce35b7-41b5-499c-a189-23737380c466)
 
 ## Project Description
 
@@ -70,7 +69,8 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
-![Architecture](images/architecture.png)
+![Architecture] ![architecture](https://github.com/RajAditya01/StudyNotion-An-Online-Education-Platform/assets/101439988/a8147ee8-d348-4d55-9ab2-1b23c2a26c55)
+
 
 ## Front End
 
